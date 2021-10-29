@@ -11,6 +11,7 @@ cameraRight = cv2.VideoCapture(1, cv2.CAP_DSHOW)
 scale = 40
 B = 5.5
 f = 803
+t =44444
 
 # minDisparity = 2
 # numDisparities = 48
